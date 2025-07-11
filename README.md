@@ -1,6 +1,6 @@
 # 🖨️ Printeth
 
-**Printeth** is a full-stack digital gallery and e-commerce system for handmade and AI-generated artwork. Built with the MERN stack (MongoDB Atlas, Express, React, Node.js), it features a modern admin interface, dynamic gallery display, analytics powered by Python, and optional integration with Print-on-Demand (POD) services for physical fulfillment.
+**Printeth** is a work in progress of a full-stack digital gallery and e-commerce system for handmade and AI-generated artwork. Built with the MERN stack (MongoDB Atlas, Express, React, Node.js), it features a modern admin interface, dynamic gallery display, analytics powered by Python, and optional integration with Print-on-Demand (POD) services for physical fulfillment.
 
 > *“The truest poetry is the most feigning.” — William Shakespeare*  
 > Printeth celebrates both the hand-crafted and the computational — illusions that speak truth.
@@ -53,16 +53,4 @@ Printeth is a creative-tech experiment and portfolio project that:
 ### 🖨️ POD Integration (Optional)
 - Export metadata + images to Printful or Gelato
 - Webhook or CSV-based order triggers
-- Ready for automated physical print fulfillment
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone & Install
-
-```bash
-git clone https://github.com/yourusername/printeth.git
-cd printeth
-
-
+- Ready for automated physical 
